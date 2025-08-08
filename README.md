@@ -38,6 +38,14 @@ To build a linear regression model that predicts disease progression based on BM
 
 ---
 
+## 📊 Output Plot
+
+The following plot visualizes the linear regression model's fit on the BMI vs. disease progression data:
+
+![Linear Regression Plot](diabetes_regression_plot.png)
+
+---
+
 ## 📦 Dependencies
 
 Make sure the following Python libraries are installed:
