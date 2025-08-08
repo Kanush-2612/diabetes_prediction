@@ -42,7 +42,7 @@ To build a linear regression model that predicts disease progression based on BM
 
 The following plot visualizes the linear regression model's fit on the BMI vs. disease progression data:
 
-![Linear Regression Plot](Diabetespredictionresult.png)
+![Linear Regression Plot](Diabetes prediction result.png)
 
 ---
 
